@@ -23,7 +23,7 @@ const point = document.querySelector(".point");
 //Memanggil Monster
 const rimuru = document.createElement("img");
 rimuru.setAttribute("class", "rimuru");
-rimuru.setAttribute("src", "Monster.png");
+rimuru.setAttribute("src", "./Images/Monster.png");
 
 const contHeight = container.offsetHeight;
 const contWidth = container.offsetWidth;
